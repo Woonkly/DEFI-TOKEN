@@ -1,5 +1,5 @@
 /**
- * DEFI Token defi.finance Protocol
+ * DEFI Token DEFI.FINANCE Protocol
 */
 
 pragma solidity 0.5.16;
